@@ -122,6 +122,7 @@ Before compiling the code, configure two essential project properties:
 ## 5. Main Code Implementation
 
 The following is the complete, compiled `main.c` code handling I2C communication, PID calculation, servo mixing, and non-blocking UART interrupts.
+Code is available in Core/Src/main.c
 
 ```
 /* USER CODE BEGIN Header */
