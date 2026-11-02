@@ -257,7 +257,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "submarine_p1.kicad_pro",
+    "filename": "submarine.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -425,18 +425,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "submarine_p1.kicad_sch",
-        "name": "submarine_p1",
-        "uuid": "2cb8f9ce-a3c5-4c7a-9275-bbc670dcdfc2"
+        "filename": "submarine.kicad_sch",
+        "name": "Root",
+        "uuid": "ba1acabb-b9f5-4ad0-a8da-aefcdd114c9e"
       }
     ],
-    "used_designators": "J1-5,M1-2,MCU1",
+    "used_designators": "#PWR1-13,J1-2,M1-2,MCU1",
     "variants": []
   },
   "sheets": [
     [
-      "2cb8f9ce-a3c5-4c7a-9275-bbc670dcdfc2",
-      "submarine_p1"
+      "ba1acabb-b9f5-4ad0-a8da-aefcdd114c9e",
+      "Root"
     ]
   ],
   "text_variables": {},

@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "submarine_p1.kicad_prl",
+    "filename": "submarine.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
