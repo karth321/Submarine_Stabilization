@@ -1,5 +1,9 @@
 # Project Report: Submarine Automatic Pitch & Roll Stabilization
 
+The project is ready to use as is. Make the required hardware connections.
+If uploading via USB, upload Debug/PitchControl.hex to the board using STM32CubeProgrammer.
+If uploading via ST Link, open the project in STM32CubeIDE, click run.
+
 ## 1. Project Overview
 
 This project implements an automatic flight control system for a submarine using an **STM32F401CEU6 Black Pill** microcontroller. By fusing accelerometer and gyroscope data from an **MPU6050 IMU**, the system calculates the submarine's real-time pitch (nose up/down) and roll (tilt left/right).
